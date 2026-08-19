@@ -10,23 +10,24 @@
  \/___/  \/___/  \/__,_ /\/___/  \/__//__/    \/_/\/_/\/_/\/__/\/____/ \/_/ \/___/  \/___/  \/____/
                                                                                                    
                                                                                                    
+> void-live login: sudowhite
+> Password: ************
+> Loading profile modules... [ SUCCESS ]
 
-[INFORMATION]
+[PRIMARY INFORMATION]
 ----------------------------------------------------------------------------------
-OS       : Human OS x86_64 / Arch Linux
-Host     : Software Engineer & Tech Enthusiast
-Kernel   : Linux 6.12.0-sudowhite-core
-Uptime   : 24 years, 7 months
-Shell    : zsh (Python, Go, Docker, Linux)
-DE/WM    : Hyprland / Neovim
-Packages : 73 (active_repos), 404 (coffee_cups)
-Memory   : 14.2GiB / 32.0GiB (Brain load)
+OS       : Void Linux
+Language : Go
+Related Technologies : Docker, GH Actions, PostgreSQL, git
 ----------------------------------------------------------------------------------
 
-[TECHNOLOGY STACK]
+[CURRENT FOCUS]
 ----------------------------------------------------------------------------------
-Primary  : Python, Go
-DevOps   : Docker, Git, GitHub Actions
-Platform : Linux, Bash, Neovim
+* In-depth study of Go and related technologies
+----------------------------------------------------------------------------------
+
+[CONTACTS]
+----------------------------------------------------------------------------------
+Email    : salatikths@proton.me
 ----------------------------------------------------------------------------------
 ```
