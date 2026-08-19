@@ -28,6 +28,6 @@ Related Technologies : Docker, GH Actions, PostgreSQL, git
 
 [CONTACTS]
 ----------------------------------------------------------------------------------
-Email    : salatikths@proton.me
+Email    : salatikth@proton.me
 ----------------------------------------------------------------------------------
 ```
