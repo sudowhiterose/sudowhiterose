@@ -18,7 +18,7 @@
 ----------------------------------------------------------------------------------
 OS       : Void Linux + i3wm
 Language : Go
-Related Technologies : Docker, GH Actions, PostgreSQL, git
+Related Technologies : Docker, GH Actions, PostgreSQL, git, linux terminal, bash
 ----------------------------------------------------------------------------------
 
 [CURRENT FOCUS]
