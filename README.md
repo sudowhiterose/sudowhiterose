@@ -18,8 +18,8 @@
 ----------------------------------------------------------------------------------
 OS       : Void Linux + i3wm
 Language : Go
-Related Technologies : Docker, GH Actions, PostgreSQL, git, linux terminal, bash,
-redis. k8s, grafana, kafka, grpc
+Related Technologies : Docker, GH Actions, PostgreSQL, Git, Linux terminal, Bash,
+Redis. K8s, Grafana, Kafka, gRPC
 ----------------------------------------------------------------------------------
 
 [CONTACTS]
