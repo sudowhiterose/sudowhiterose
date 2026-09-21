@@ -22,11 +22,6 @@ Related Technologies : Docker, GH Actions, PostgreSQL, git, linux terminal, bash
 redis. k8s, grafana, kafka, grpc
 ----------------------------------------------------------------------------------
 
-[CURRENT FOCUS]
-----------------------------------------------------------------------------------
-* In-depth study of Go and related technologies
-----------------------------------------------------------------------------------
-
 [CONTACTS]
 ----------------------------------------------------------------------------------
 Email    : salatikth@proton.me
