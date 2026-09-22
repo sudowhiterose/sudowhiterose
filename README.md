@@ -24,6 +24,6 @@ in the process of learning: (Redis, K8s, Grafana, Kafka, gRPC)
 
 [CONTACTS]
 ----------------------------------------------------------------------------------
-Email    : salatikth@proton.me
+Email    : salatikths@gmail.com
 ----------------------------------------------------------------------------------
 ```
