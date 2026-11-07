@@ -17,8 +17,8 @@
 [PRIMARY INFORMATION]
 ----------------------------------------------------------------------------------
 OS       : Void Linux + i3wm
-Language : Go
-Related Technologies : Docker, GH Actions, PostgreSQL, Git, Linux terminal, Bash
+Languages: Go, Python, Bash
+Related Technologies : Docker, GH Actions, PostgreSQL, Git, Linux
 in the process of learning: (Redis, K8s, Grafana, Kafka, gRPC, Prometheus)
 ----------------------------------------------------------------------------------
 
